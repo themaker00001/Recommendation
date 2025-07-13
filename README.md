@@ -50,7 +50,7 @@ streamlit run app.py
 
 ![App Screenshot](screenshots/demo.png)
 <p align="center">
-  <img src="screenshots/demo.png" width="80%">
+  <img src="App Screenshot/screenshots/demo.png" width="80%">
 </p>
 
 Upcoming Features (Ideas)
