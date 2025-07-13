@@ -46,6 +46,10 @@ bash
 Copy
 Edit
 streamlit run app.py
+## 🔥 Demo Preview
+
+![App Screenshot](screenshots/demo.png)
+
 
 Upcoming Features (Ideas)
 🎞️ YouTube trailer integration
