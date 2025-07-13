@@ -49,7 +49,9 @@ streamlit run app.py
 ## 🔥 Demo Preview
 
 ![App Screenshot](screenshots/demo.png)
-
+<p align="center">
+  <img src="screenshots/demo.png" width="80%">
+</p>
 
 Upcoming Features (Ideas)
 🎞️ YouTube trailer integration
